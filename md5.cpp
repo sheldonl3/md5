@@ -3,7 +3,6 @@
 #include <string>
 #include <string.h>
 #include <iostream>
-//g++ md5.cpp -o md5 -lcrypto
 
 int get_file_md5(const std::string &file_name, std::string &md5_value)
 {
