@@ -1,4 +1,4 @@
-## openssl库使用学习
+## openssl学习
 
 ### 环境
 ubuntu前提是安装了g++、openssl库（系统默认自带）
